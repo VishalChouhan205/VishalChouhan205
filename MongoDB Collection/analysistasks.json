@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "65a829ba11a0d75ebaa75c09"
+  },
+  "taskId": "7w284ovwyj4r09yvnhayv",
+  "fileId": "1705435516537-923619117",
+  "operation": "countUniqueWords",
+  "status": "completed",
+  "result": {
+    "countUniqueWords": 231
+  },
+  "createdAt": {
+    "$date": "2024-01-17T19:25:46.142Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65a829f711a0d75ebaa75c0d"
+  },
+  "taskId": "56ew23vtfsbe2yrresfil",
+  "fileId": "1705435516537-923619117",
+  "operation": "countWords",
+  "status": "completed",
+  "result": {
+    "countWords": 385
+  },
+  "createdAt": {
+    "$date": "2024-01-17T19:26:47.192Z"
+  },
+  "__v": 0
+}]
